@@ -1,0 +1,6 @@
+### virtual ###
+.venv
+
+
+### config ###
+config.ini
