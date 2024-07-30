@@ -54,6 +54,19 @@ python bot_setting.py
 
 ![alt text](images/markdown-image-8.png)
 
+### 디스코드 개발자 포털에서 봇 설정 완료했으면,
+```bash
+git clone https://github.com/bamjun/first_discord_bot.git && cd first_discord_bot && poetry update && poetry shell
+```
+
+```bash
+touch config.ini && echo -e '[discord]\ntoken = SOME_TOKEN' > config.ini
+```
+
+```bash
+python bot_setting.py
+```
+
 
 ---
 # 느낀점
