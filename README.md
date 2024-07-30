@@ -2,7 +2,11 @@
 
 ---
 
-### 0. 깃클론
+
+### 0. 깃클론  
+
+- `python`, `poetry`, `git` 설치 되어있어야함.  
+
 ```bash
 git clone https://github.com/bamjun/first_discord_bot.git && cd first_discord_bot && poetry update && poetry shell
 ```
